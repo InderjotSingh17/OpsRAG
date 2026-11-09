@@ -1,0 +1,33 @@
+
+INFORMATION SECURITY POLICY
+
+Password Security
+
+Employees must use strong and unique passwords for company accounts.
+Passwords must not be shared with colleagues or external individuals.
+Employees should enable multi-factor authentication wherever supported.
+Suspected password compromise must be reported immediately.
+
+Access Control
+
+Employees receive access to systems according to their job responsibilities.
+Access to confidential information must be restricted to authorized personnel.
+Employees must not attempt to access systems or data without permission.
+
+Data Protection
+
+Confidential company information must be stored only in approved company systems.
+Employees must not transfer confidential documents to personal email accounts.
+Sensitive information must not be shared with unauthorized third parties.
+
+Device Security
+
+Employees must keep company devices updated with approved security patches.
+Devices must be locked when left unattended.
+Lost or stolen company devices must be reported to the IT department immediately.
+
+Security Incidents
+
+Employees must report suspected phishing emails, malware infections and unauthorized access.
+Security incidents should be reported to the IT security team as soon as possible.
+Employees must not investigate or modify potentially compromised systems without authorization.

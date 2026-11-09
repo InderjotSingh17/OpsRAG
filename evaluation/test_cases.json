@@ -1,0 +1,34 @@
+[
+  {
+    "question": "How many paid leaves do employees receive annually?",
+    "expected_answer": "Employees receive 18 paid leaves annually."
+  },
+  {
+    "question": "How many casual leaves can employees take per year?",
+    "expected_answer": "Employees can take up to 12 casual leaves per year."
+  },
+  {
+    "question": "How many unused paid leaves can be carried forward?",
+    "expected_answer": "Unused paid leaves can be carried forward up to a maximum of 5 days."
+  },
+  {
+    "question": "What is the sick leave policy?",
+    "expected_answer": "Sick leave is available for medical emergencies."
+  },
+  {
+    "question": "When must employees notify their manager about planned leave?",
+    "expected_answer": "Employees must notify their manager before taking planned leave."
+  },
+  {
+    "question": "Are employees eligible for parental leave?",
+    "expected_answer": "Employees working for more than one year are eligible for parental leave according to company policy."
+  },
+  {
+    "question": "Where is the company headquarters located?",
+    "expected_answer": "I could not find this information in the provided documents."
+  },
+  {
+    "question": "How many annual sick leaves are provided?",
+    "expected_answer": "I could not find this information in the provided documents."
+  }
+]

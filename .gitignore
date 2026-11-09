@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.chroma/
+mlruns/
+experiments/cost_logs.jsonl
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+mlartifacts/
+experiments/observability.jsonl
